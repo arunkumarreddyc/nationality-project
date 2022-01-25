@@ -12,7 +12,7 @@ document.body.innerHTML = `
 <div  class="sub-container1">
 
 <a href="World Trade Press Report_Country_Codes.pdf" target="_blank">Download country codes pdf</a>
-<p> This is a searchbox which shows the country code and the probability of the name present in that country</p>
+<p> This is a searchbox which shows the country code and the probability of the name of a person present in that country</p>
 <input type="text" class="searchbar  text-lowercase" placeholder='Enter Name'>
 <button class="btn-primary m-1 px-3  rounded searchbutton">Search</button>
 </div>
